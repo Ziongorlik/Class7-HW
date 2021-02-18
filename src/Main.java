@@ -16,15 +16,15 @@ public class Main {
         String input = scanner.next();
         custumerLog.writeToFile(input);
 
-        System.out.print("Input your age: ");
+        System.out.print("Input your age : ");
         input = scanner.next();
         custumerLog.writeToFile(input);
 
-        System.out.print("Input your address: ");
+        System.out.print("Input your address : ");
         input = scanner.next();
         custumerLog.writeToFile(input);
 
-        System.out.print("Input your phone number: ");
+        System.out.print("Input your phone number : ");
         input = scanner.next();
         custumerLog.writeToFile(input);
     }
